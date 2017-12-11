@@ -6,7 +6,7 @@ android {
         applicationId "com.anddevw.aeq"
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 1
+        versionCode 20171210
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
