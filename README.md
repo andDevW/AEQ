@@ -6,7 +6,7 @@ Works with Google Nexus and Pixel devices.
 ### CLICK THE ICON TO DOWNLOAD ###
 <img src="https://github.com/andDevW/AEQ/blob/master/app/src/main/ic_launcher-web.png" /> 
 <br>  
-<a href="https://anddevw.com/assets/apk/aeq/app-release.apk" target="_blank"><img                                                                    
+<a href="https://anddevw.com/assets/apk/aeq/app-release.apk" target="_blank"><img                                               <a href="https://anddevw.com/assets/apk/aeq/app-release.apk"target="_blank"><img src="https://github.com/andDevW/AEQ/blob/master/app/src/main/ic_launcher-web.png" alt="Get it on F-Droid"/></a>                 
 ### Screenshots
 <img src="https://github.com/andDevW/AEQ/blob/res/device-2017-12-09-040658.png" 
 width="320" height="569" /> 
