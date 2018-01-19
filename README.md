@@ -41,5 +41,5 @@ You should have received a copy of the GNU General Public License along with AEQ
 
 ### Trademarks
 
-*Android is a trademark of Google Inc.*   
+*Android* is a trademark of *Google Inc.*   
 *Copyright (c) 2017 Andrew Wright (andDevW)*
