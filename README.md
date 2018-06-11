@@ -1,10 +1,7 @@
 
 ### AEQ - Android AudioEffect EQ 
 An easy way to use Android's powerful audio enhancement features with any music(audio) app.  
-Works with Google Nexus and Pixel devices.
-
-### CLICK THE ICON TO DOWNLOAD andDevW SIGNED APK ###
-<a href="https://anddevw.com/assets/apk/aeq/app-release.apk" target="_blank"><img src="https://github.com/andDevW/AEQ/blob/master/app/src/main/ic_launcher-web.png" alt="Get it on F-Droid"/></a>             
+Works with Google Nexus and Pixel devices.          
 
 ### Screenshots
 <img src="https://github.com/andDevW/AEQ/blob/res/device-2017-12-09-040658.png" 
